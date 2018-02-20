@@ -1,0 +1,17 @@
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\bin\Debug\Giris.exe.config
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.csprojResolveAssemblyReference.cache
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.Eczanecs.resources
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.Form1.resources
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.Properties.Resources.resources
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.csproj.GenerateResource.Cache
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\bin\Debug\Giris.exe
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\bin\Debug\Giris.pdb
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.exe
+c:\users\systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.pdb
+C:\Users\Systemub\Documents\Visual Studio 2015\Projects\Giris\Giris\bin\Debug\MySql.Data.dll
+C:\Users\Systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.EczaDeposu.resources
+C:\Users\Systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.EczaDeposu1.resources
+C:\Users\Systemub\documents\visual studio 2015\Projects\Giris\Giris\bin\Debug\System.Data.SQLite.dll
+C:\Users\Systemub\documents\visual studio 2015\Projects\Giris\Giris\bin\Debug\System.Data.SQLite.xml
+C:\Users\Systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.eczaneana.resources
+C:\Users\Systemub\documents\visual studio 2015\Projects\Giris\Giris\obj\Debug\Giris.pdfo.resources
